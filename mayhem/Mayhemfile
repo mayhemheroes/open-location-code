@@ -5,7 +5,7 @@ project: open-location-code
 target: open-location-code-encode-decode-fuzz
 
 # Base image to run the binary in.
-image: ghcr.io/lotdeef/open-location-code:latest
+# image: ghcr.io/lotdeef/open-location-code:latest
 
 # List of commands used to test the target
 cmds:
