@@ -1,0 +1,4 @@
+project: open-location-code
+target: open-location-code-encode-decode-fuzz
+cmds:
+  - cmd: ./encode-decode-fuzz.libfuzzer
